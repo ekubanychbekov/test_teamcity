@@ -25,4 +25,7 @@ To debug in IntelliJ Idea, open the 'Maven Projects' tool window (View
 version = "2025.11"
 
 project {
+
+    subProject(CompanyAProject)
+
 }
