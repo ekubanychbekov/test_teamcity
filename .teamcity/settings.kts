@@ -27,5 +27,6 @@ version = "2025.11"
 project {
 
     subProject(CompanyAProject)
+    subProject(CompanyBProject)
 
 }
